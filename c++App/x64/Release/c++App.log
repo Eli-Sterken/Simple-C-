@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Eli Sterken\OneDrive\Projects\c++App\main.cpp(132,21): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  c++App.vcxproj -> C:\Users\Eli Sterken\OneDrive\Projects\c++App\x64\Release\c++App.exe

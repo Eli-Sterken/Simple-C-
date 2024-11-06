@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Eli Sterken\OneDrive\Projects\c++App\main.cpp(132,21): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  c++App.vcxproj -> C:\Users\Eli Sterken\OneDrive\Projects\c++App\x64\Debug\c++App.exe
